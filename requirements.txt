@@ -1,0 +1,18 @@
+# Core (data, EDA, TF-IDF baseline)
+kagglehub
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+
+# BERT models
+torch
+transformers
+datasets
+accelerate
+tqdm
+
+# Notebook
+jupyter
